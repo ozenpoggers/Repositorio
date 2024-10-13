@@ -1,0 +1,3 @@
+C:/Users/riben/Desktop/Programamentos/CODEBLOCKS/Exercicios while/cmake-build-debug/CMakeFiles/Exercicios_while.dir
+C:/Users/riben/Desktop/Programamentos/CODEBLOCKS/Exercicios while/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/riben/Desktop/Programamentos/CODEBLOCKS/Exercicios while/cmake-build-debug/CMakeFiles/rebuild_cache.dir
